@@ -1,0 +1,202 @@
+[
+    {
+        "name": "MINIMALIST SWEATSHIRT",
+"description": "Sweatshirt made of a cotton blend. Round neckline and long sleeves. Ribbed trims.",
+"price": "449900",
+"stock": "100",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/5388/452/401/2/w/750/5388452401_1_1_1.jpg?ts=1665043261376",
+"categoryId":1,
+"authorId": 1
+    },
+    {
+        "name": "SNOOPY PEANUTS™ SWEATSHIRT",
+"description": "Long sleeve sweatshirt with a round neck and ribbed trims. Snoopy Peanuts™ print.",
+"price": "699900",
+"stock": "80",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/5643/850/401/2/w/750/5643850401_1_1_1.jpg?ts=1664525164426",
+"categoryId": "1",
+"authorId": "2"
+    },
+    {
+        "name": "OTTOMAN BUTTON-UP DRESS",
+"description": "Dress with a round neck and long sleeves. Metallic button details on the front.",
+"price": "629900",
+"stock": "100",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/0085/497/800/2/w/750/0085497800_1_1_1.jpg?ts=1665678157521",
+"categoryId": 1,
+"authorId": 1
+    },
+    {
+        "name": "SHORT RUFFLED DRESS",
+"description": "Short dress featuring a round neckline and long sleeves with elastic trim. Ruffle trims in a combination of matching fabrics. Buttoned opening at the back.",
+"price": "699900",
+"stock": "40",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/7901/440/800/2/w/750/7901440800_1_1_1.jpg?ts=1662481988489",
+"categoryId": 1,
+"authorId": 2
+    },
+    {
+        "name": "SUEDE JACKET",
+"description": "Collared jacket made of leather with a suede finish. Featuring long sleeves, patch pockets at the hip and a button-up front.",
+"price": "2699900",
+"stock": "40",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/2/p/4720/402/700/2/w/750/4720402700_1_1_1.jpg?ts=1665474895111",
+"categoryId": 2,
+"authorId": 1
+    },
+    {
+        "name": "JACKET WITH POCKETS",
+"description": "Jacket featuring a lapel collar and long sleeves with buttoned cuffs. Chest patch pockets and hip welt pockets. Interior pocket detail. Button-up front.",
+"price": "1399900",
+"stock": "30",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/2/p/3918/395/800/2/w/750/3918395800_1_1_1.jpg?ts=1665496655804",
+"categoryId": 2,
+"authorId": 2
+    },
+    {
+        "name": "TEXTURED T-SHIRT",
+"description": "T-shirt with a round neckline, long sleeves and contrast double hem",
+"price": "629900",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/2/p/1887/360/445/2/w/750/1887360445_1_1_1.jpg?ts=1665496655700",
+"categoryId": 2,
+"authorId": 1
+    },
+    {
+        "name": "GATHERED PRINTED TOP",
+"description": "High neck top with long sleeves. Gathered trim details. Invisible side zip fastening and buttoned opening at the back.",
+"price": "749900",
+"stock": "50",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/9129/829/330/2/w/750/9129829330_1_1_1.jpg?ts=1665736565218",
+"categoryId": 1,
+"authorId": 2
+    },
+    {
+        "name": "SMART SHOES",
+"description": "Black formal derby shoes. Five eyelet facing. Pointed toes.",
+"price": "1199000",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/1/2/p/2405/920/040/2/w/750/2405920040_6_3_1.jpg?ts=1659965997190",
+"categoryId": 1,
+"authorId": 2
+    },
+    {
+        "name": "LEATHER HEELED OVER-THE-KNEE BOOTS",
+"description": "Over-the-knee leather boots. Block heel. Square toe. Side zip fastening.AIRFIT®. Flexible technical latex foam insole, designed to offer greater comfort.",
+"price": "2999900",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/1/1/p/2007/010/700/2/w/750/2007010700_2_3_1.jpg?ts=1663762594615",
+"categoryId": 1,
+"authorId": 2
+    },
+    {
+        "name": "MINI CITY BAG",
+"description": "Mini city bag. Straps with knots on the front. Handles and a detachable and adjustable crossbody strap with a buckle. Zip closure.",
+"price": "449900",
+"stock": "25",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/1/1/p/6677/010/040/2/w/750/6677010040_2_1_1.jpg?ts=1663333627988",
+"categoryId": 3,
+"authorId": 4
+    }, 
+    {
+        "name": "RIBBED CUT-OUT TOP",
+"description": "Long sleeve turtleneck top with cut-out details.",
+"price": "449000",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/4174/661/800/2/w/750/4174661800_2_1_1.jpg?ts=1666781088976",
+"categoryId": 1,
+"authorId": 3
+    }, 
+    {
+        "name": "BASIC SWEATSHIRT",
+"description": "Hoodie with an adjustable drawstring hood, long sleeves and rib trims.",
+"price": "449900",
+"stock": "15",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/3199/801/629/2/w/750/3199801629_2_1_1.jpg?ts=1666864697679",
+"categoryId": 1,
+"authorId": 3
+    }, 
+    {
+        "name": "ROSE GOURMAND 80 ML / 2.71 OZ + 10 ML / 0.34 OZ",
+"description": "Eau de parfum duo set featuring spicy notes of carnation, the luminous radiance of jasmine and the ethereal tenderness of peony. It is all there to decorate and enhance a rose with modern freshness and strong character.",
+"price": "449900",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/2/1/p/0110/461/999/2/w/750/0110461999_6_1_1.jpg?ts=1663254999836",
+"categoryId": 1,
+"authorId": 4
+    }, 
+    {
+        "name": "JEANS Z1975 HIGH RISE FLARE",
+"description": "High-waist jeans with five pockets. Flared hem. Front zip fly and metallic button fastening.",
+"price": "799000",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/6147/168/407/2/w/750/6147168407_1_1_1.jpg?ts=1666683715613",
+"categoryId": 1,
+"authorId": 1
+    }, 
+    {
+        "name": "SPLIT SUEDE COWBOY HIGH HEEL ANKLE BOOTS",
+"description": "Split suede cowboy ankle boots. Block heel. Fitted upper. Pointed toe. Side zip fastening.",
+"price": "159900",
+"stock": "12",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/1/1/p/2105/110/800/2/w/750/2105110800_6_2_1.jpg?ts=1666951069843",
+"categoryId": 4,
+"authorId": 2
+    }, 
+    {
+        "name": "STUDDED BLACK CROSSBODY BAG",
+"description": "Crossbody bag that converts into a wallet. Featuring several interior compartments, detachable chain link shoulder strap, silver metal hardware and zip fastening.",
+"price": "199000",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/1/1/p/8085/611/040/2/w/750/8085611040_1_1_1.jpg?ts=1664961649581",
+"categoryId": 3,
+"authorId": 2
+    },
+    {
+        "name": "UNUSUAL FLOWER 90 ML / 3.04 OZ",
+"description": "Fresh, lightweight and luminous eau de parfum with the set of bergamot and tangerine essences,",
+"price": "329900",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/2/1/p/0130/150/999/2/w/750/0130150999_6_1_1.jpg?ts=1659450481544",
+"categoryId": 1,
+"authorId": 1
+    }, 
+    {
+        "name": "PRINTED MINI DRESS",
+"description": "Dress featuring a surplice neckline and long sleeves with cuffs. Smocked wide elasticated waist. Lining. Ruffled hem.",
+"price": "79900",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/9878/055/031/2/w/750/9878055031_1_1_1.jpg?ts=1666953362379",
+"categoryId": 1,
+"authorId": 2
+    }, 
+    {
+        "name": "SHORT FLORAL PRINT DRESS",
+"description": "Dress with a surplice neckline and long sleeves. Front pleat details. Lining. Invisible side zip fastening.",
+"price": "999900",
+"stock": "10",
+"status": "active",
+"imgUrl": "https://static.zara.net/photos///2022/I/0/1/p/9089/320/330/2/w/750/9089320330_1_1_1.jpg?ts=1664369568269",
+"categoryId": 1,
+"authorId": 1
+    }
+]

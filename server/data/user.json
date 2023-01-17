@@ -1,0 +1,34 @@
+[
+    {
+        "username": "kareen",
+        "email": "kareen@gmail.com",
+        "password": "123456", 
+        "role": "admin",
+        "phoneNumber": "081436214326",
+        "address": "jakarta"
+    },
+    {
+        "username": "airen",
+        "email": "airen@gmail.com",
+        "password": "123456", 
+        "role": "user",
+        "phoneNumber": "0827511531718",
+        "address": "jakarta"
+    },
+    {
+        "username": "nana",
+        "email": "nana@gmail.com",
+        "password": "123456", 
+        "role": "customer",
+        "phoneNumber": "0827511531718",
+        "address": "jakarta"
+    },
+    {
+        "username": "anna",
+        "email": "anna@gmail.com",
+        "password": "123456", 
+        "role": "customer",
+        "phoneNumber": "0827511531718",
+        "address": "jakarta"
+    }
+]
